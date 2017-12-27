@@ -6,6 +6,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36CBAF7B-9F23-40AD-ABF8-B182C6D8E1FD}"
 	ProjectSection(SolutionItems) = preProject
 		wercker.yml = wercker.yml
+		docker_entrypoint.sh = docker_entrypoint.sh
 	EndProjectSection
 EndProject
 Global
